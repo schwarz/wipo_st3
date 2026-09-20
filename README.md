@@ -73,4 +73,4 @@ defmodule MyApp.CountryCode do
 end
 ```
 
-Full documentation can be found at <https://hexdocs.pm/wipo_st3>.
+Full documentation can be found at <https://wipo-st3.hexdocs.pm>.
